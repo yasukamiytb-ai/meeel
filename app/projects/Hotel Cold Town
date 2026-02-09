@@ -1,0 +1,47 @@
+---
+title: "It's Okay"
+year: 2025
+type: "Music Video"
+description: "Description du projet 'It's Okay'."
+images:
+  - "its-okay-1.jpg",
+  - "its-okay-2.jpg",
+  - "its-okay-3.jpg"
+links:
+  demo: "lien-vers-la-demo"
+  github: "lien-vers-github"
+crew:
+  - role: "Director"
+    name: "Nom du réalisateur"
+  - role: "Director of Photography"
+    name: "Nom du DP"
+  - role: "1st AC"
+    name: "Nom du 1er assistant caméra"
+  - role: "Key Gaffer"
+    name: "Nom du chef électricien"
+  - role: "Key Grip"
+    name: "Nom du chef machiniste"
+---
+
+# It's Okay
+
+**Année** : 2025
+**Type** : Clip musical
+
+Description du projet 'It's Okay'.
+
+## Équipe
+- **Director** : Nom du réalisateur
+- **Director of Photography** : Nom du DP
+- **1st AC** : Nom du 1er assistant caméra
+- **Key Gaffer** : Nom du chef électricien
+- **Key Grip** : Nom du chef machiniste
+
+## Galerie
+![Image 1](its-okay-1.jpg)
+![Image 2](its-okay-2.jpg)
+![Image 3](its-okay-3.jpg)
+
+## Liens
+[Demo](lien-vers-la-demo)
+[GitHub](lien-vers-github)
